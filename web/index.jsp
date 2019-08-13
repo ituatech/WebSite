@@ -11,6 +11,6 @@
     <title>My Page</title>
   </head>
   <body>
-  Fuck off!
+  My lovely page.
   </body>
 </html>
