@@ -7,12 +7,12 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class Model {
-    private static final Model instance = new Model();
+    private static final Model users = new Model();
 
     private List<User> model;
 
     public static Model getInstance() {
-        return instance;
+        return users;
     }
 
     private Model() {
